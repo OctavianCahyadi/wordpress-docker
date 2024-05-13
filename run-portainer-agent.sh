@@ -1,0 +1,1 @@
+docker-compose -f docker-compose-portainer.yml --project-name server up -d
